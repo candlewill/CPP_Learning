@@ -5,7 +5,7 @@ using namespace std;
 void get_second(unsigned long*);
 double mean(int*, int);
 
-int main_x() {
+int main_5() {
 	unsigned long sec;
 	get_second(&sec);
 	cout << sec << endl;
