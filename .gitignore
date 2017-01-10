@@ -53,3 +53,4 @@ CPP_Learning/CPP_Learning.vcxproj.filters
 *.db
 CPP_Learning.VC.VC.opendb
 *.enc
+*.filters
