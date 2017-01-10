@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+CPP_Learning.sln
+*.tlog
+*.idb
+CPP_Learning/CPP_Learning.vcxproj.filters
+*.vcxproj
+*.db
+CPP_Learning.VC.VC.opendb
+*.enc
