@@ -42,6 +42,7 @@ int main_10() {
 	cout << "using -> to visit struct member " << book_p->author << endl;
 
 	print_book_use_p(&book);
+	return 0;
 
 }
 
