@@ -82,4 +82,6 @@ std::cout<<grade_list.begin()->second<<endl;
 Cost:
 
 One issue to keep in mind is that insertion of a new key (and associated value) in a map, or lookup of the data associated with a key in a map, can take up to O(log(n)) time, where n is the size of the current map. This is potentially a bit slower than some hash tables with a good hashing function, and is due to the fact that the map keys are stored in sorted order for use by iterators.
+
+unordered_map
 */
