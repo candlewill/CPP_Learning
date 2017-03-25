@@ -6,4 +6,4 @@ aux_source_directory(. DIR_LIB_SRCS)
 
 # 生成链接库
 # 使用命令 add_library 将 src 目录中的源文件编译为静态链接库。
-add_library (Functions ${DIR_LIB_SRCS})
+add_library (MathFunctions ${DIR_LIB_SRCS})

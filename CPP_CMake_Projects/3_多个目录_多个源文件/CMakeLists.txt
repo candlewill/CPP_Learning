@@ -23,5 +23,5 @@ add_executable(Demo ${DIR_SRCS})
 
 # 添加链接库
 # 使用命令 target_link_libraries 指明可执行文件 main 需要连接一个名为 MathFunctions 的链接库
-target_link_libraries(Demo libFunctions.a)
+target_link_libraries(Demo MathFunctions)
 
