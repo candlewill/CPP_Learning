@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andbase/workspace/CPP_Learning/CPP_CMake_Projects/3_多个目录_多个源文件/main.cpp
+stdio.h
+-
+stdlib.h
+-
+math/functions.h
+/home/andbase/workspace/CPP_Learning/CPP_CMake_Projects/3_多个目录_多个源文件/math/functions.h
+
+/home/andbase/workspace/CPP_Learning/CPP_CMake_Projects/3_多个目录_多个源文件/math/functions.h
+
